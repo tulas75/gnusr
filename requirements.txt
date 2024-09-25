@@ -1,0 +1,4 @@
+semantic_router
+sentence-transformers
+semantic-router[fastembed]
+Flask
